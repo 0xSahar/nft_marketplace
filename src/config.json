@@ -12,10 +12,10 @@
    
    "11155111": {
       "NFT" :{
-        "address" : "0xE3198B9475AC3ab774026092eCadaE2c40cb6041"
+        "address" : "0xC319c3c397B4FFFaBBf526FFeBD94f41B9312673"
       },
-       "Marketplace" :{
-        "address" : "0xC7CBecc259bdce0211Ad5b6035c74da1880Ea540"
+       "MARKETPLACE" :{
+        "address" : "0x2E1F02612312C019765f12ae58118eDcFbf71b5A"
       },
 
       "explorerURL" : "https://sepolia.etherscan.io/"
