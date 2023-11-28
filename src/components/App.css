@@ -7,6 +7,11 @@
   pointer-events: none;
 }
 
+.logo{
+  top: 80px;
+  left: 2000px;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
@@ -24,6 +29,20 @@
   color: white;
 }
 
+h1 {
+  font-size: clamp(1rem, 2vw, 1.25rem);
+  font-weight: 300;
+}
+
+body {
+  background-color: #ff6c0a;
+  margin: 0;
+  font-family: "Play";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
 .App-link {
   color: #61dafb;
 }
@@ -35,4 +54,18 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+/* ------------------------------------------------------ */
+/* -- Footer -- */
+.footer {
+   margin: 0 auto;
+  text-align: center;
+  position:relative;
+  top:250px;
+}
+.href{
+  position:relative;
+  top:-20px;
+  left:-470px;
 }

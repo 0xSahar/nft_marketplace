@@ -6,5 +6,18 @@
        "Marketplace" :{
         "address" : "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512"
       },
+
+        "explorerURL" : "#"   
+   },
+   
+   "11155111": {
+      "NFT" :{
+        "address" : "0xE3198B9475AC3ab774026092eCadaE2c40cb6041"
+      },
+       "Marketplace" :{
+        "address" : "0xC7CBecc259bdce0211Ad5b6035c74da1880Ea540"
+      },
+
+      "explorerURL" : "https://sepolia.etherscan.io/"
    }
 }
