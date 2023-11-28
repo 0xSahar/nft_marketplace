@@ -54,7 +54,7 @@ function App() {
 
    const loadContracts = async (signer , chainId) => {
    // Get deployed copies of contracts
-    const MarketplaceAddress = config[chainId].Marketplace
+    const MarketplaceAddress = config[chainId].MARKETPLACE
     const marketplace = new ethers.Contract(MarketplaceAddress.address, MarketplaceAbi, signer)
     setMarketplace(marketplace)
 
